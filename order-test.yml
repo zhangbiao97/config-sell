@@ -8,4 +8,4 @@ spring:
     username: root
     password: zhangbiao
     url: jdbc:mysql://123.56.9.64:3306/springcloud_sell?characterEncoding=utf8&useSSL=false
-env: test3
+env: test4
